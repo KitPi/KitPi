@@ -1,0 +1,4 @@
+-  Hi, my name is Kit.
+-  I’m interested in Machine Learning and software developement
+-  I’m currently learning Data Structures and algorithms, and conditional generative neural networks
+-  my school email is kpeer@sfu.ca
