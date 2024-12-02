@@ -1,1 +1,2 @@
-Riffusion: git@github.sfu.ca:kpeer/ProbabilisticPioneers-FinalProject.git
+## Projects
+[Riffusion](https://github.sfu.ca/kpeer/ProbabilisticPioneers-FinalProject)
