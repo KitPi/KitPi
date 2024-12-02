@@ -1,2 +1,2 @@
 ## Projects
-[Riffusion](https://github.sfu.ca/kpeer/ProbabilisticPioneers-FinalProject)
+ - [Riffusion](https://github.sfu.ca/kpeer/ProbabilisticPioneers-FinalProject)
